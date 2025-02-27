@@ -13,6 +13,8 @@ Espacio: Activa o desactiva el procesamiento del tiempo.
 ## Para utlizarlo
 utilizar Godot 4.x.x en adelante.
 
-Se puede modificar la propiedad wait time del timer desde godot para cambiar la velocidad de cambio
+Se puede modificar la propiedad "wait time" de timer desde godot para cambiar la velocidad de cambio
 ![image](https://github.com/user-attachments/assets/d0f8b93c-9052-4266-b599-fdef3ae68f32)
 
+Se pueden modificar las dimensiones del tablero con la propiedad expuesta "tamaño de mapa" de main 
+![image](https://github.com/user-attachments/assets/1b09af8c-a9e5-4650-8e34-be1d0d3f6bea)
