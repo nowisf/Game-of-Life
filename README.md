@@ -18,3 +18,9 @@ Se puede modificar la propiedad "wait time" de timer desde godot para cambiar la
 
 Se pueden modificar las dimensiones del tablero con la propiedad expuesta "tamaño de mapa" de main 
 ![image](https://github.com/user-attachments/assets/1b09af8c-a9e5-4650-8e34-be1d0d3f6bea)
+
+### Futuros cambios
+[] Crear configuracion dentro del juego para modificar:
+  [] Dimensiones
+  [] Velocidad de procesamiento
+  [] Si el mapa usara Limites portal o Sin limites
