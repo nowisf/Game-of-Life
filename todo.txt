@@ -1,0 +1,3 @@
+[x] func get_posicion_relativa(vector de cambio)
+
+[ ] guardar un mapa
